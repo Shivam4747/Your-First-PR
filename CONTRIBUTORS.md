@@ -39,3 +39,4 @@
 | 34       | [Shubhika Shubhavee](https://github.com/shubhavee)        | Manipal Institute of Technology                                         | HTML/CSS, Javascript, React JS, Django, Python |
 | 35      | [naufal](https://github.com/fall-dawam)                      |                              | HTML, CSS, Java, Reactjs, Laravel, Vue                       |
 | 36      | [Shivam Birla](https://github.com/Shivam4747)                      |         GGSIPU      |          Python, CyberSec, Bash          |
+| 37      | [Rushikesh Phalke](https://github.com/rushikeshphalke)      |  Code for fun               |   HTML , CSS, PYTHON , Javascript , ML, ANN|
